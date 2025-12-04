@@ -5,14 +5,14 @@ from document_parser.document import Document
 class EmbeddingModel(ABC):
 
     @abstractmethod
-    def __init__(self):
+    def __init__(self, model_name: str):
         """
         Initialize the embedding model with the given model name.
         """
         pass
 
     @abstractmethod
-    def embed(self, document: Document) -> np.array[float]:
+    def embed(self, document: Document) -> np.ndarray:
         """Generate embedding for the given text.
 
         Args:

@@ -1,5 +1,5 @@
 from datasets import load_dataset
-from document_parser import DocumentParser
+from .document_parser import DocumentParser
 # from document_parser.document import Document
 
 class HotpotQALoader:
@@ -21,9 +21,9 @@ class HotpotQALoader:
         return document_parser
 
 loader = HotpotQALoader()
-print(len(loader.dataset))
+# print(len(loader.dataset))
 document_parser = loader.get_document_parser()
 documents = document_parser.get_documents()
-for doc in documents[:2]:
-    print(doc.get_text()[:500])  # Print first 500 characters of each document
-print(len(documents))
+#for doc in documents[:2]:
+#    print(doc.get_text()[:500])  # Print first 500 characters of each document
+#print(len(documents))

@@ -1,6 +1,7 @@
 import numpy as np
 import re
-from Collections import Counter, defaultdict
+import math
+from collections import Counter, defaultdict
 from embedding_models.embedding_model import EmbeddingModel
 
 class TfIdfEmbeddingModel(EmbeddingModel):
@@ -15,9 +16,9 @@ class TfIdfEmbeddingModel(EmbeddingModel):
         self.vocab = {} # term -> unique index
         self.documents = []
         self.idf_scores = {} # term -> idf score
-        self.fitted = false # whether fit() is called
+        self.fitted = False # whether fit() is called
     
-    def _tokenize(self, text: str) -> List[str]:
+    def _tokenize(self, text: str) -> list[str]:
         return re.findall(r"\b\w+\b", text.lower())
 
     def add_document(self, text: str):
@@ -47,7 +48,7 @@ class TfIdfEmbeddingModel(EmbeddingModel):
 
         self.fitted = True
 
-    def embed(self, text: str) -> np.array[float]:
+    def embed(self, text: str) -> np.ndarray:
         """
         Generate TF-IDF embedding for the given text.
 
