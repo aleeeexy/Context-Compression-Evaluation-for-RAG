@@ -1,4 +1,17 @@
 class Document:
-    def __init__(self, content: str, metadata: dict):
-        self.content = content
-        self.metadata = metadata
+    def __init__(self, document_text: str):
+        self.text = document_text
+
+    def get_text(self) -> str:
+        return self.text
+
+    # def word_frequency(self) -> dict[str, int]:
+    #         words = self.content.split()
+    #         frequency = {}
+    #         for word in words:
+    #             word = word.lower()
+    #             frequency[word] = frequency.get(word, 0) + 1
+    #         return frequency
+        
+    # def unique_words(self) -> set[str]:
+    #     return self.word_frequency_map.keys()

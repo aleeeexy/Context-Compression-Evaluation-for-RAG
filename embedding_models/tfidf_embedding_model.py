@@ -4,11 +4,13 @@ from Collections import Counter, defaultdict
 from embedding_models.embedding_model import EmbeddingModel
 
 class TfIdfEmbeddingModel(EmbeddingModel):
-    def __init__(self):
+    def __init__(self, model_name: str = "tfidf"):
+        """Initialize the TF-IDF embedding model.
+        
+        Args:
+            model_name: Name identifier for this model.
         """
-        Initialize the TF-IDF embedding model.
-        """
-        super().__init__()
+        super().__init__(model_name)
 
         self.vocab = {} # term -> unique index
         self.documents = []
