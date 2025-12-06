@@ -19,6 +19,15 @@ class HotpotQALoader:
             context_text = " ".join([" ".join(sentence) for sentence in context_sentences])
             document_parser.add_document(context_text)
         return document_parser
+    
+    def get_questions(self) -> list[str]:
+        """Retrieve questions from the HotpotQA dataset.
+
+        Returns:
+            list[str]: A list of questions.
+        """
+        questions = [example['question'] for example in self.dataset]
+        return questions[:10]  # Return first 10 questions for brevity
 
 loader = HotpotQALoader()
 # print(len(loader.dataset))
