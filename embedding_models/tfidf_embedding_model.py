@@ -21,6 +21,15 @@ class TfIdfEmbeddingModel(EmbeddingModel):
     def _tokenize(self, text: str) -> list[str]:
         return re.findall(r"\b\w+\b", text.lower())
 
+    def _bigram_tokenize(self, text: str) -> list[str]:
+        tokens = self._tokenize(text)
+        return [f"{tokens[i]} {tokens[i+1]}" for i in range(len(tokens) - 1)]
+
+    def _trigram_tokenize(self, text: str) -> list[str]:
+        tokens = self._tokenize(text)
+        return [f"{tokens[i]} {tokens[i+1]} {tokens[i+2]}"
+                for i in range(len(tokens) - 2)]
+
     def add_document(self, text: str):
         self.documents.append(text)
 
@@ -34,6 +43,10 @@ class TfIdfEmbeddingModel(EmbeddingModel):
         # calculate df (each token's frequency over all documents)
         for doc in self.documents:
             tokens = set(self._tokenize(doc))
+            bigrams = self._bigram_tokenize(doc)
+            tokens.update(bigrams)
+            trigrams = self._trigram_tokenize(doc)
+            tokens.update(trigrams)
             for t in tokens:
                 df[t] += 1
 
@@ -62,6 +75,8 @@ class TfIdfEmbeddingModel(EmbeddingModel):
             raise RuntimeError("Call fit() before embed().")
 
         tokens = self._tokenize(text)
+        tokens += self._bigram_tokenize(text)
+        tokens += self._trigram_tokenize(text)
         counter = Counter(tokens)
 
         total = sum(counter.values())

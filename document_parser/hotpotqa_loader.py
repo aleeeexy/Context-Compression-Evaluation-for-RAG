@@ -20,6 +20,15 @@ class HotpotQALoader:
             document_parser.add_document(context_text)
         return document_parser
     
+    def get_questions_answers(self, num: int = 10) -> list[tuple[str, str]]:
+        """Retrieve questions from the HotpotQA dataset.
+
+        Returns:
+            list[str]: A list of questions.
+        """
+        qas = [(example['question'], example["answer"]) for example in self.dataset]
+        return qas[:num]  # Return first num questions for brevity
+    
     def get_questions(self) -> list[str]:
         """Retrieve questions from the HotpotQA dataset.
 
@@ -27,7 +36,8 @@ class HotpotQALoader:
             list[str]: A list of questions.
         """
         questions = [example['question'] for example in self.dataset]
-        return questions[:10]  # Return first 10 questions for brevity
+        return questions[:10]
+    
 
 loader = HotpotQALoader()
 # print(len(loader.dataset))

@@ -1,0 +1,448 @@
+Were Scott Derrickson and Ed Wood of the same nationality?
+Expected Answer: yes
+I do not have access to accurate or up-to-date information about any specific individuals. However, based on the context provided in the given text, we can assume that "scott derrickson" and "ed wood" are likely referring to the same nationality. It is possible that they could be of different ethnicities or national origins, but the specificity of their nationality could not be determined based on the information provided.
+========= false
+What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Expected Answer: Chief of Protocol
+The woman who portrayed Corliss Archer in the film "Kiss and Tell" is not mentioned in the given text. It only mentions that Corlis is a journalist in the novel, but there are no further details about her role in the film or any other media she appeared in.
+========= false
+What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+Expected Answer: Animorphs
+"The Three Kingdoms" by Suzanne V. Slade is a science fantasy young adult series that tells two parallel but intertwined stories:
+
+1. The story of Ester, a slave on the planet Mundu, who discovers that she can communicate with aliens from an enigmatic species known only as "The Ones". As Ester becomes closer to these beings, she learns about the history and struggles of her world, and herself, and sets out to reclaim her people's freedom.
+
+2. The story of the planet Venar, where Ester first discovers the Ones, and how they help her in her quest for freedom. This companion book series tells the stories of other enslaved worlds in the same universe, exploring their struggles and triumphs in a shared universe.
+
+Both sets of books are narrated by Ester, making it a unique and engaging story that explores themes of oppression, rebellion, and hope. The series has been praised for its powerful storytelling, unique world-building, and engaging characters.
+========= false
+Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+Expected Answer: no
+Yes, the Laleli Mosque and Esma Sultan Mansion are located in the same neighborhood of Fatihiyevca near the town of Kocakoca in eastern Turkey. Both buildings have a history dating back to the Ottoman period and are popular tourist attractions in the area.
+========= false
+The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+Expected Answer: Greenwich Village, New York City
+Yes, according to the passage above, the director of the Romantiic comedy "Big Stone Gaap" is based in New York City.
+========= false
+2014 S/S is the debut album of a South Korean boy group that was formed by who?
+Expected Answer: YG Entertainment
+2014 S/S is the debut album of a South Korean boy group named SS5, which is made up of members Seong-Hyun (leader and vocalist), Ji Hyung (vocalist), Dae Gun (guitarist), Min Yoon-Joo (keyboardist), Woo Jong-Hui (bassist) and Soo-Youn (drummer).
+========= false
+Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+Expected Answer: Eenasul Fateh
+Aladin is a stage name used by American business consultant and author Dan Kennedy. He helped organizations to improve their performance through various consulting services, including strategy development, marketing analysis, sales management, and organizational improvement.
+========= false
+The arena where the Lewiston Maineiacs played their home games can seat how many people?
+Expected Answer: 3,677 seated
+According to the passage, the arenas mentioned in the article are not named as they were before the opening of the new Gillette Stadium. The article doesn't specify the number of seats in the arenas.
+========= false
+Who is older, Annie Morton or Terry Richardson?
+Expected Answer: Terry Richardson
+Terry Richardson is considerably older than Annie Morton in terms of years. Terry Richardson was born in 1970 while Annie Morton was born in 1965. In other words, Terry Richardson is at least six years older than Annie Morton.
+========= true
+Are Local H and For Against both from the United States?
+Expected Answer: yes
+Yes, Local H and For Against are both American bands that have released albums in various countries such as the United States, Canada, and Europe. They were founded in San Francisco, California, in the late 1980s by bassist/singer John Bivens and drummer Tim Hodler.
+========= true
+What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+Expected Answer: Kansas Song
+The name of the fight song of the University of Kansas (KU) is "Hail to the Chief" because it originated during a student-led protest against President Dwight D. Eisenhower's decision to remove the Confederate flag from the state Capitol in Topeka, Kan., in 1959. The song was later adopted as the University of Kansas' official fight song and remains so to this day.
+========= false
+What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+Expected Answer: David Weissman
+According to IMDB, the screenwriter who co-wrote a film starring Nicolas Cage and Téa Leoni was Paul Haggis.
+========= false
+What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+Expected Answer: 1999
+Guns 'N' Roses performed a promotional video for the movie starring Arnold Schwarzenegger as a former New York Police detective in the year 1997.
+========= false
+Are Random House Tower and 888 7th Avenue both used for real estate?
+Expected Answer: no
+Both Random House Tower and 888 7th Avenue are not currently used for real estate purposes as of 2021. The buildings were constructed in the early 1950s and have been converted into mixed-use residential, office, and retail spaces. Their current uses include apartments, offices, shops, restaurants, and hotels, among others.
+========= false
+The football manager who recruited David Beckham managed Manchester United during what timeframe?
+Expected Answer: from 1986 to 2013
+The football manager who recruited David Beckham managed Manchester United during the following years:
+- 1994 to 2003: Under Alex Ferguson's tenure (8 years)
+- 2003 to 2006: Under Ruud Van Nistelrooy's tenure (4 years)
+- 2006 to 2011: Under David Moyes' tenure (5 years)
+- 2011 to 2013: Under Jose Mourinho's tenure (4 years)
+- 2013 to 2014: Under Louis van Gaal's tenure (1 year)
+========= false
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Expected Answer: 9,984
+The given text does not mention any specific population for Brown State Fishing Lake. It only says that it lies in a country with a population.
+=========false
+The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+Expected Answer: the North Atlantic Conference
+The Vermont Catamounts men's soccer team currently competes in the Atlantic Hockey Association (AHA), which was established on January 23, 1997, after a merger of the American Collegiate Athletic Conference and United States Collegiate Athletic Association.
+=========false
+Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+Expected Answer: yes
+No, neither Giuseppe Verdi nor Ambrosine Thomas are known as Opera composers. They were both playwrights who wrote operas based on their plays, but they did not compose operatic music themselves.
+========= false
+Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+Expected Answer: 1969 until 1974
+Roger O. Egebrg served as an Assistant Secretary for Health and Scientific Affairs under the administration of President George W. Bush, serving from January 2005 to July 2007.
+========= false
+Which writer was from England, Henry Roth or Robert Erskine Childers?
+Expected Answer: Robert Erskine Childers DSC
+Henry Roth, who wrote under the pseudonym "Erskine Childers," and Robert Erskiwe Childers, who wrote as "Childers" are not the same person. Henry Roth (1903-1956) was an American author known for his classic novel "Call It Sleep." Robert Erskiwe Childers (1897-1942) was a British writer of literary fiction and nonfiction who is best known for his novels set during the Edwardian era.
+=========false
+Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?
+Expected Answer: Pedro Rodríguez
+There have been at least two other Mexican Formula One race car drivers who have held the podium:
+
+1. Carlos Sainz Jr. - He won the 2013 Spanish Grand Prix, his first win in Formula One.
+
+2. Sergio Pérez - He won the 2018 Italian Grand Prix, his second career victory in Formula One after winning the 2017 Canadian Grand Prix.
+========= false
+This singer of A Rather Blustery Day also voiced what hedgehog?
+Expected Answer: Sonic
+Sure, I'll repeat it for you:
+
+"What heeding-goo?"
+
+
+========= false
+Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?
+Expected Answer: keyboard function keys
+Yes, you're right! In addition to the Apple Remote, there are other devices that can control the program "Apple Remote" was originally designed to interact with. Here are some of them:
+
+1. Keyboard, pointing device, and mouse
+2. Game controllers (such as Xbox, PlayStation, Wii, etc.)
+3. Other remote-controlled devices, such as smartphones or tablets
+4. Home automation devices like smart bulbs or smart locks that support IR codes
+5. Telepresence devices for remote collaboration or remote training purposes
+6. Robotic arms or other devices for haptic feedback (i.e. Tactile sensations)
+========= true
+Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? 
+Expected Answer: Badly Drawn Boy
+Badly Drawn Boy's performance act has a higher instrument-to-person ratio compared to Wolf Alice, as they have two female drummers and one male bassist. In contrast, Wolf Alice's performance act has one female drummer and four other musicians. However, each member of both acts performs a significant role in their respective bands, so it is difficult to compare the instrument-to-person ratio solely based on this metric.
+========= true
+What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?
+Expected Answer: World's Best Goalkeeper
+The father of Kasper Schmeichel, who was a professional footballer, was voted to have been born in 1930 and died in 2007. The details regarding his voting position are not stated in the given material.
+========= false
+Who was the writer of These Boots Are Made for Walkin' and who died in 2007?
+Expected Answer: Barton Lee Hazlewood
+The writer of "These Booties are Made for Walking" is unknown, and no death was reported in 2007. The song may have been released in the past few years without any specific information available about its author or death.
+========= false
+The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?
+Expected Answer: 1838
+The 2011–12 VCU Ramps men's basketball team represented Virginia Commonwealth University (VCU), founded in 1899.
+========= false
+Are both Dictyosperma, and Huernia described as a genus?
+Expected Answer: yes
+Yes, Dictyosperma and Huerniaboth are genera in the family Dryopteridaceae, which is listed in Plants of the World Online (POWO), the authority on plant taxonomy. POWO describes both Diccysperma and Huerneria as genera with the following characteristics:
+
+- Diccysperma: monogeneric, with one genus: Diccysperma.
+- Huerneria: monogeneric, with one genus: Huerneria.
+
+Both genera are listed in POWO based on genetic analysis of the available DNA data, which supports their monophyly and suggests that they are part of a single family.
+========= true
+Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?
+Expected Answer: Henry J. Kaiser
+Yes, that's correct. Kaiser Ventures was founded in 1960 by a German-born American industrialist named Otto von Habsburg-Lothringen, who became known as the "father" of modern American shipbuilding. The company is now part of the ABS (American Bureau of Shipping) group.
+========= false
+What is the name for the adventure in "Tunnels and Trolls", a game designed by Ken St. Andre?
+Expected Answer: Arena of Khazan
+The name for the game designed by Ken St. Andre titled "Tunnels and Trolls" is not specifically stated in the given text, but it can be inferred based on the context of the prompt. The article mentions that the game is a "classic" RPG designed to simulate the atmosphere and character of the classic role-playing game "Adventure."
+=========false
+When was Poison's album "Shut Up, Make Love" released?
+Expected Answer: 2000
+Poison's album "Shut Up, Make Love" was re-released on August 14th, 2017.
+=========false
+Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?
+Expected Answer: Fujioka, Gunma
+Buck-Tick, the band of Haiden (the former stage name for singer-songwriter Kenji Hirai), was formed in Japan. They are regarded as one of Japan's most influential and innovative rock bands during their active years from the late 1980s to the early 2000s.
+========= false
+Which  French ace pilot and adventurer fly L'Oiseau Blanc
+Expected Answer: Charles Eugène
+The correct spelling for "Frocch" is not specified in the given text, so the Frecnh ace pilot and adventurer referred to in this passage are unspecified. The phrase "L'Oiseau Blanc," which means "The White Bird" or "White Bird," may be interpreted as "Frog" (the bird), "Adventurer" (a person who embarks on a journey or exploration), or "Freccia" (arrow). Depending on the context, it is possible that the phrase could also refer to a specific flying machine, such as a biplane or airplane. Ultimately, without more information, it's best to avoid any confusion and use the traditional spelling for the pilots and adventurer mentioned in the passage.
+=========false
+Are Freakonomics and In the Realm of the Hackers both American documentaries?
+Expected Answer: no
+Both Freakonomics and In the Realm of the Haacker are American documentaries, but Freakonomics is a feature-length documentary while In the Realm of the Haacker is a TV special.
+========= false
+Which band, Letters to Cleo or Screaming Trees, had more members?
+Expected Answer: Letters to Cleo
+Both bands, Letters to Cleo and Screaming Tree, had three members each. However, Letters to Cleo had a larger following during their peak time (1997-2004) compared to Screaming Tree (which began in 2003).
+========= false
+Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?
+Expected Answer: October 1922
+Luis Agustín Curbelo Martínez (October 2, 1865 – March 9, 1940), known as "El Gallo", was a prominent Cuban politician and general who played a critical role in the establishment of the Republic of Cuba. He was one of the most powerful men during the last two decades of the 19th century before the rise of revolutionary movements across Latin America, which eventually led to the overthrow of several Spanish-colonial dictatorships.
+
+Martí's involvement in the failed uprising against the Spanish Empire was one reason he became a prominent figure in Cuban history. In the civil war that followed the defeat of the insurrection, Marti played a key role as commander of the National Guard and later as head of the Revolutionary Government. However, during his subsequent exile to the United States, Marti lost much of the political influence he had gained during his leadership of the Republic's national guard. Despite his loss of power, Marti remained active in Cuban politics and later founded his own newspaper, El Griot (The Cock).
+========= false
+Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?
+Expected Answer: 2000
+The physicist in question was a Swiss physicist named Carlo Rovelli, who first gained international recognition for his book Seven Brief Lessons on Physics in 2008. Rovelli did not work in France for the duration of the book's publication (which took place from January to December 2007), but in the United States and other countries during and after that period.
+========= false
+The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?
+Expected Answer: World War II
+The Livesey Hal War Memorial commemorates the fallen of World War II (WWII). WWII refers to the global conflict that began on September 1, 1939, and ended with the signing of the United Nations Charter in 1945. During this period, there were over 60 million casualties due to both land and naval campaigns, which resulted from different war aims by various nations.
+========= true
+Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?
+Expected Answer: no
+No, neither Elko Regional Airport nor Gerald R. Ford International Airport is located in Michigan. Both are located in different states in the United States: Elko County, Nevada, and the Detroit Metro Airport (now called Detroit Metropolitan Wayne County Airport) in Wayne County, Michigan.
+========= true
+Ralph Hefferline was a psychology professor at a university that is located in what city?
+Expected Answer: New York City
+Ralph Hefferline was a professor of Psychology at the University of California in Santa Barbara, California.
+=========false
+Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?
+Expected Answer: Scotch Collie
+The Manchester Terrrier is a cross between the Gordon Setter (which includes Gordon, Irish Setter) and a small breed of dog such as a terrier, fox terrier, or weimaraner. The Scotch Collie, on the other hand, is a specific breed that descends from the Scottish terrier and the Staffordshire bull terrier. 
+
+Based on your question, it appears that both options are incorrect as neither of them include the Manchester Terrrier or Scotch Collie.
+=========false
+Where is the company that Sachin Warrier worked for as a software engineer headquartered? 
+Expected Answer: Mumbai
+The company where Sachin Warrier worked as a software engineer has not been mentioned in the given text. The given passage does not specify which company he was working for at that point in time.
+========= false
+A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?
+Expected Answer: 1962
+The mangaka who created the manga series "Ichitaka Seto" is born in 2001.
+========= false
+The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?
+Expected Answer: sovereignty
+Ethiopia's position after Giuseppe Arimondi's death is secure in the Battle of Adwa (1896). The victory secured Ethiopia's independence from Italian colonial rule and its eventual unification with other African nations. The battle was fought against the Italian invaders during World War II, and the result led to the creation of a powerful and independent Ethiopian state that would later become part of the African nation known as Ethiopia.
+========= false
+Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?
+Expected Answer: Nelson Rockefeller
+According to the provided text, Alfred Balk served as the secretary of the Committee on the Employment of Minority Group in the News Media, under which the Vice President was Robert F. Kennedy Jr., during his tenure in office (1965-1968).
+========= false
+A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?
+Expected Answer: Yellowcraig
+A: Bute Island
+
+Bute Island is a small island located at the south end of the east coast of Scotland. It is bordered on the south by the medieval fortified town of Dirleton in East Lothian, where one can find the medieval fortress mentioned in the given text.
+========= false
+Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?
+Expected Answer: Phil Spector
+The writer of the song "We Are the Dead" (which was the first track on the box set Back to Mono) is not specified in the given text. It is unclear who wrote the song based solely on the context provided.
+========= false
+What type of forum did a former Soviet statesman initiate?
+Expected Answer: Organizations could come together to address global issues
+The former Soviet statesman initiated a discussion board called "Soviet Politics" on the German-speaking website Forum.org in 2015. It was not an official forum of any government or political party, but rather a private discussion board that people could use to share their opinions and insights about politics in the former Soviet republics.
+========= false
+Are Ferocactus and Silene both types of plant?
+Expected Answer: yes
+Yes, Ferocactu is a type of plant while Silene is a genus. The two are distinct species and belong to different families: Ferocactaceae (Ferocactus) and Cactaceae (Silene).
+========= true
+Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?
+Expected Answer: English Electric Canberra
+The British first-generation jet-powered medium bombardier, Hawker Typhoon. It was a highly successful aircraft and was used extensively in the South West Pacific theatre of World War II by the Royal Air Force (RAF).
+========= false
+Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?
+Expected Answer: 2009 Big 12 Conference
+The 14th season for the Colorado Buffaloes (as part of the NCAA Division I) was in the Western Athletic Conference (WAC). They played in the 2021-2022 season, with their record being 2-6.
+=========  false
+In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?
+Expected Answer: 1,462
+The question does not provide specific information about the year of publication or its source. In such cases, it is common to shorten the response to one word or a single letter in order to condense the overall answer into a more succinct form. This would be "end of 2016" in this case.
+========= false
+What race track in the midwest hosts a 500 mile race eavery May?
+Expected Answer: Indianapolis Motor Speedway
+The Indianapolis Motor Speedway is the home of the 500-mile IndyCar Series race every May.
+========= true
+In what city did the "Prince of tenors" star in a film based on an opera by Giacomo Puccini?
+Expected Answer: Rome
+The "Prince of Tenors" star in a film based on an opera by Giacomo Puccini is not specified in the given text.
+========= false
+Ellie Goulding worked with what other writers on her third studio album, Delirium?
+Expected Answer: Max Martin, Savan Kotecha and Ilya Salmanzadeh
+During her third studio album, Eliee Gouldin did work with several other writers. However, the exact list is not specified in the given text.
+========= false
+Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.
+Expected Answer: Marion, South Australia
+Yes, Brisbane, Queensland, Australia, was founded in 1838 and is located in the state of Queensland. The city's first public institution of education was opened by Sir Thomas Brisbane in 1841 as a school for indigenous children and boys under the name "Brisbane Grammar School". The school later became known as the "East Brisbane Secondary College" in honour of his patronage.
+========= false
+D1NZ is a series based on what oversteering technique?
+Expected Answer: Drifting
+D1NZ is a street racing video game series developed by Criterion Games and published by Electronic Arts. The D1NZ series is set in the fictional city of Deception Island, which features various tracks inspired by popular streets car racing games such as Need for Speed: Underground 2, Nitro Neo: Super Street Fighter IV, and Project CARS. In each game, players are given the ability to perform oversteer maneuvers in high-speed race scenarios through various tracks of various difficulty levels. The series is known for its fast-paced action and intense competitive races that feature realistic physics engine simulation, as well as customizable vehicles and characters.
+========= false
+who is younger Keith Bostic or Jerry Glanville ?
+Expected Answer: Keith Bostic
+Both Keith Bostic and Jerry Glazville are two different people with the same given name "Keith".
+========= false
+According to the 2001 census, what was the population of the city in which Kirton End is located?
+Expected Answer: 35,124
+The 2001 census data indicates that the population of the city in which Kirton End is located was 476.
+========= false
+Are both Cypress and Ajuga genera?
+Expected Answer: no
+Yes, both Cypress (Cyprus) and Ajuga (Ajuga) genera are listed in the genus name of the plant. In other words, they are two separate names for the same genus, Cypress (Cyprus) and Ajuga (Ajuga), respectively.
+========= false
+What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?
+Expected Answer: shortest player ever to play in the National Basketball Association
+The former NBA player mentioned in the text is Michael Jordan, who was a member of the Charlotte Hornets during their 1992-93 season as a head coach for the WNBA's Charlotte Sting.
+========= false
+What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?
+Expected Answer: Ronald Shusett
+The name of the executive producer of the film "Cries and Whispers" that has a score composed by Jerry Goldsmith is Martin Samuel.
+========= false
+Who was born earlier, Emma Bull or Virginia Woolf?
+Expected Answer: Adeline Virginia Woolf
+Both Emma Bull and Virginia Woof were novelists, but they died much later in the same year (1922) - Virginia Woof on February 4th, 1922, and Emma Bull a few months after her, on September 6th, 1922.
+========= false
+What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?
+Expected Answer: 821
+The Roud Folk Song Index is a collection of nursery rhymes that originated in Ireland, Scotland, and England. The specific folksong or lyrics you are referring to may vary depending on the source and publication. However, based on my knowledge, the Roud Folk Song Index includes "Little Girls Are Made Of Sweet" from Ireland.
+========= false
+Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?
+Expected Answer: more than 70 countries
+Scott Parkin has been a vocal critic of ExxonMobil and another corporation, in this case, that has operations in many countries, including the United States. The specific corporations mentioned here are not specified in the given text. However, based on his experience as an advocate for social justice and environmental causes, Parkin's criticism may include addressing issues such as human rights violations, environmental degradation, and political influence that may affect the operations of these corporations.
+========= false
+What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?
+Expected Answer: Charmed
+Jawbreakers is a supernatural drama television series that Rose Mcgowan was not known for. The main character of the show is played by the same actor, Joshua Sessler.
+=========false
+Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?
+Expected Answer: International Boxing Hall of Fame
+Vince Phillips held a junior welterweight title as the champion of the World Boxing Council (WBC) Junior Welterweight Division, which was recognized by the International Boxing Federation (IBF).
+========= false
+What is the name of the singer who's song was released as the lead single from the album "Confessions", and that had popular song stuck behind for eight consecutive weeks?
+Expected Answer: Usher
+The name of the singer whose song was re-released as the lead single from the album "Confessions" and had a popular song stuck behind it for eight consecutive weeks is not specified in the given material.
+=========false
+who is the younger brother of The episode guest stars of The Hard Easy 
+Expected Answer: Bill Murray
+The younger brother of The episode guest stars in The Hard Easy is unnamed. Please see the provided text for more details on the episode and its main characters.
+========= false
+The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?
+Expected Answer: Carabao Cup
+The 2017-18 Wigan Athletic FC season will be a year in which the team competes in the League Cup known as Breabadealod. The League Cup is sponsored by Breabadealod, one of the prominent businesses in the Galway area.
+========= false
+Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the "Teen Titans"?
+Expected Answer: Teen Titans Go!
+The American animated television series based on the DC Comics fictional superhero team, the "Teen Titans", is not named after one of Taras Strong's roles. The show's name is a reference to their namesake, the Teen Titans comic book series.
+=========true
+What is the inhabitant of the city where  122nd SS-Standarte was formed in2014
+Expected Answer: 276,170 inhabitants
+The city where 122nd SS-Standarte was formed in 2014 is not specified in the given text. It refers to a fictional entity only, which may or may not be based on any real-world entity.
+========= false
+What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? 
+Expected Answer: orange
+During Oranjegekte in the Netherlands, people typically wear brightly colored clothes, which are commonly associated with the colors orange and green. This tradition is rooted in the Dutch colonial history, where the Dutch wore brightly colored clothing as a sign of their allegiance to the King and his authority over their colonies. The clothing color used for Oranjegekte has evolved over time from traditional Dutch colors like red, blue, and white, but it still typically incorporates orange and green.
+========= false
+What was the name of the 1996 loose adaptation of William Shakespeare's "Romeo & Juliet" written by James Gunn?
+Expected Answer: Tromeo and Juliet
+The 1996 loose adaptation of William Shakespeare's "Roomeo & Juliet" written by James Gunn was called "Twelfth Night".
+========= false
+Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?
+Expected Answer: William Jefferson Clinton
+During his tenure as National Intelligence Officer for Southwest Asia (1983-1985), Robbert Suettinger served as the deputy national intelligence officer for Near East and North Africa (NEANA).
+========= false
+What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?
+Expected Answer: John John Florence
+On 3 November 2017, American professional Hawaiian surfer Jack Cullinan won the RiP Curl Pro Portugal in Praia, Portugal. The event was a men's pro surfing competition held at Praia das Letras and featured some of the best surfers in the world competing for prize money and bragging rights.
+========= false
+What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?
+Expected Answer: Ann
+The midle name of the actress who plays Bobbi Bacha in Suburban Madness is Megan Fox.
+========= false
+Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?
+Expected Answer: Apalachees
+Alvaro Mexia was tasked with helping a local tribe of indigenous people in the Amazon region of South America. The question asks what tribe Alvaro Mexia was helping. A diploma is a certificate or mark that indicates someone has achieved a level of education or learning, so it's not entirely clear from this question which tribe Alvaro Mexia was helping.
+========= false
+What nationality were social anthropologists Alfred Gell and Edmund Leach?
+Expected Answer: British
+Social anthropologists Alfred Gell and Edmund Leach were British.
+========= true
+In which year was the King who made the 1925 Birthday Honours born?
+Expected Answer: 1865
+The King who made the 1925 Birthday Honours was not named in the given text, so it is unclear when exactly he or she was born. It can be assumed that he or she was either alive in 1925 or born afterward.
+========= false
+What is the county seat of the county where East Lempster, New Hampshire is located?
+Expected Answer: Newport
+The county seat of the county where East Lempster, New Hampshire is located is:
+
+Answer: Meredith, New Hampshire.
+========= false
+The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?
+Expected Answer: Bob Seger
+Robert C Seger was known under his musician's name, Robert Seger, which he adopted in his early years as a performer. He continued to go by this name throughout his career and even beyond that.
+========= false
+Rostker v. Goldberg held that the practice of what way of filling armed forces vacancies was consitutional?
+Expected Answer: Conscription
+In Rozier v. Goldberg, a case decided on March 10, 1948, the U.S. Supreme Court held that the practice of conscription in the United States Army was constitutional because it satisfied the "military necessity" standard of Justus v. Sargentz (1865). The court stated:
+
+> "Whenever the right to life and personal liberty is at issue, the Constitution requires a search for the most effective means of protecting them...In our present time, the military necessity of conscripting certain classes of citizens for service in their armed forces is so indispensable that it could be sustained under any test of constitutional validity."
+========= true
+Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?
+Expected Answer: Mondelez International, Inc.
+Handi-Snacks are a snack food product line sold by the Canadian multinational corporation, General Mills Inc., based in Chicago, Illinois.
+========= false
+What was the name of a woman from the book titled "Their Lives: The Women Targeted by the Clinton Machine " and was also a former white house intern?
+Expected Answer: Monica Lewinsky
+The woman from the book mentioned in the context is named Cathy L. Johnson, who also served as a former white house intern under Hillary Clinton's administration. The book, published in 2015 by HarperCollins Publishers, explores various women who have had a close association with the Clinton family and their alleged involvement in various political scandals.
+========= false
+When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?
+Expected Answer: April 1, 1949
+The American lawyer, lobbyiст, and political consultant who was a senior member of the presidential campaign of Donald Trump was born in 1946.
+========= false
+In what year was the novel that Lourenço Mutarelli based "Nina" on based first published?
+Expected Answer: 1866
+The novel "Nina" by Lourenço Mutarelli was first published in Italy in 1968.
+========= false
+Where are Teide National Park and Garajonay National Park located?
+Expected Answer: Canary Islands, Spain
+Teide National Park and Garajoña National Park are two national parks in Spain that you can visit for a breathtaking natural experience. Here's where they are located:
+
+- Teide National Park is located on the island of La Gomera, which lies approximately 140 kilometers west of Tenerife. It is accessible by car or taxi from Playa de la Vega in San Cristóbal de La Laguna (Tenerife) and requires about a one-hour drive.
+- Garajoña National Park is located on the island of Lanzarote, approximately 480 kilometers southeast of Tenerife. It's accessible by car or taxi from Puerto del Rosal in Arrecife and requires about a three-hour drive.
+
+Both parks offer various activities for visitors to explore their stunning natural surroundings, such as hiking trails, boat tours, beach visits, and sightseeing opportunities.
+========= false
+How many copies of Roald Dahl's variation on a popular anecdote sold?
+Expected Answer: 250 million
+I do not have access to real-time statistics or data regarding the sales of books. However, according to published reports and sources, roald dahl's "gone fishing" was a bestseller upon its initial release in 1988, selling over 2 million copies worldwide. As of now, it remains a popular and enduring work that continues to captivate readers and generate sales years after its publication.
+========= false
+What occupation do Chris Menges and Aram Avakian share?
+Expected Answer: director
+Chris Menges and Araam Avakiyan share the occupation of "Software Engineer."
+========= false
+Andrew Jaspan was the co-founder of what not-for-profit media outlet?
+Expected Answer: The Conversation
+Andrew Jaspan is the co-founder of The Intercept, a not-for-profit media organization that focuses on reporting about government secrecy, corporate corruption, and other matters of public interest.
+========= false
+Which American film director hosted the 18th Independent Spirit Awards in 2002?
+Expected Answer: John Waters
+Yes, that was the answer to your question. The American film director John Sayles hosted the 18th Independent Spirit Awards in 2002.
+========= false
+Where does the hotel and casino located in which Bill Cosby's third album was recorded?
+Expected Answer: Las Vegas Strip in Paradise
+The hotel and Casino locations in Bill Cosby's third album were not specified in the given text material. It is not mentioned where these locations are located or what specific album they belong to, making it difficult to determine where the hotel and casino are located in relation to the third Bill Cosby album.
+========= fakse
+Do the drinks Gibson and Zurracapote both contain gin?
+Expected Answer: no
+The article does not state whether Drikns and Zurracaps contain gin in the title. However, it is mentioned that they contain rum or gin in a different section of the text. Please provide additional context for clarification purposes.
+========= false
+In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held? 
+Expected Answer: March and April
+The annual documentary film festival, which is published by the Fortnightly Published British Journal of Literary Essays, is usually held in December.
+========= false
+Tysons Galleria is located in what county?
+Expected Answer: Fairfax County
+Tyson's Galleria is located in Dallas, Texas.
+========= false
+Bordan Tkachuk was the CEO of a company that provides what sort of products?
+Expected Answer: IT products and services
+Based on the text material, Boordan Tkačuk is mentioned as being the CEO of a company called "Company Providing High-Tech Products." The question asks about the type of product or service offered by this company.
+========= true
+Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?
+Expected Answer: Levni Yilmaz
+Lev Yilmaz is a filmmaker who was known for animation, whereas Pamela B. Green is an American visual artist.
+========= false
+In which city is the ambassador of the Rabat-Salé-Kénitra administrative region to China based?
+Expected Answer: Beijing
+The ambassador of Rabat-Salé-Kénitra Administrative Region to China is currently based in Beijing.
+========= true
+Are Yingkou and Fuding the same level of city?
+Expected Answer: no
+In Chinese mythology, Yingkou (杭口) is associated with a legendary dragon that lived in the Jiaxing region in eastern China. The name "Yingkou" means "dragon's mouth," and it was said to be the entrance to a vast underworld. In contrast, Fuding (福定) is an ancient city located in central Henan Province, which is about 60 kilometers away from Hangzhou. It is not clear if there is any connection between the two cities based on this information. Both Yingkou and Fuding are relatively small towns with a population of around 150,000 and 200,000 respectively, and have historically been known for their geographical location rather than any mythological significance.
+========= true
+
+15%

@@ -1,0 +1,80 @@
+Were Scott Derrickson and Ed Wood of the same nationality?
+Expected Answer: yes
+Yes, that's correct. Scott Derrickson is a director who was born in Denver, Colorado, United States and graduated from the University of Southern California with a degree in film production. On the other hand, Ed Wood was an American filmmaker and actor who was born in Cincinnati, Ohio, but spent most of his life in Hollywood.
+========= true
+What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Expected Answer: Chief of Protocol
+The woman who portrayed Corlis Archer in the film "Kiss and Tell" was not a government official. The character played by Sandra Bullock is simply a fictionalized version of the real-life author Corlis Archer, who was a pseudonym for American journalist Marilyn Monroe.
+========= false
+What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?
+Expected Answer: Animorphs
+"The Bone Hunter" series by Sarah Pinborough is a good example of a science fantasy young adult series, told in first person, with two companion books: "Bone Hunter: The Echoes of the Mists" and "Bone Hunter: The Gift of the Shadows." These books narrate the stories of enslaved worlds and other species in the "Echoes of the Mists" universe.
+========= true
+Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?
+Expected Answer: no
+I don't have access to real-time information on the current geography and location of buildings or neighborhoods. However, based on the given context, it seems like the laleli mosque and esma sultan mansion are located in the same neighborhood as they are both described as being located in a "neighborhood" within a city or town. It would depend on the exact location of each building, but generally speaking, these types of buildings may be found in close proximity to one another in urban areas.
+========= false
+The director of the romantic comedy "Big Stone Gap" is based in what New York city?
+Expected Answer: Greenwich Village, New York City
+The director of the romantic comedy "Big Stone Gaap" is based in New York City, not in any specific location as mentioned. It's a general name for an area or region in the United States, which can refer to various cities and metropolitan areas depending on their size and population.
+=========
+2014 S/S is the debut album of a South Korean boy group that was formed by who?
+Expected Answer: YG Entertainment
+2014 S/S is the debut album of a South Korean boy group that was formed by SM Entertainment. The name of the group is Seungri (formerly known as 2NE1), and its first member, Donghae.
+=========
+Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?
+Expected Answer: Eenasul Fateh
+Aladdin is a well-known consultant who has worked with several organizations to help them improve their performance, specifically in the areas of strategy development, organizational design, and process improvement. He specializes in leveraging business intelligence tools and data analytics to identify potential bottlenecks and opportunities for improvements. Aladdin has helped organizations such as General Electric (GE), American Express, and Coca-Cola improve their performance by improving efficiency, reducing costs, and increasing profitability.
+=========
+The arena where the Lewiston Maineiacs played their home games can seat how many people?
+Expected Answer: 3,677 seated
+I do not have access to real-time information about arena capacities or seating capacity for a specific venue. However, usually, a standard arena seating capacity is around 3,000-5,000 people, and in some cases, it may be higher for larger venues or events. Please check with the official venue's website or contact the team directly to obtain accurate information on the current seating capacity at the arenas mentioned in this text.
+=========
+Who is older, Annie Morton or Terry Richardson?
+Expected Answer: Terry Richardson
+Annie Morton is older than Terry Richardson. Terry Richardson was born in 1967, while Annie Morton was born in 1952.
+=========
+Are Local H and For Against both from the United States?
+Expected Answer: yes
+Both "Local H" and "For Against" are terms used to describe a type of political organization or movement that advocates for progressive policies, often focusing on social and economic justice issues. While Local H is based in the United States, For Against is also popular among progressives in other countries, including the United Kingdom, Germany, and Canada.
+=========
+What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+Expected Answer: Kansas Song
+The answer is:
+
+The University Fight Song of the University of Kansas (KU) is called "Through It All." The song has been composed by James E. Mullins, and it was first performed on February 18, 1945, at a football game against the University of Missouri-Kansas City. It was released on the album "The Music of Kansas State University" in 1990, and it has been used as the school's official fight song since then.
+=========
+What screenwriter with credits for "Evolution" co-wrote a film starring Nicolas Cage and Téa Leoni?
+Expected Answer: David Weissman
+The screenwriter who has credits for "Evolution" with Nicolas Cage and Téa Leoni is Jeff Burr.
+=========
+What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?
+Expected Answer: 1999
+Guns N' Roses performed a promotional video for the movie "The Last Action Hero" starring Arnold Schwarzenegger as a former New York Police detective in 1989.
+=========
+Are Random House Tower and 888 7th Avenue both used for real estate?
+Expected Answer: no
+No, Random House Tower is not used for real estate. It is a skyscraper located at 125 West 42nd Street in New York City that was built as the office of Random House Inc. The company had previously occupied a smaller building at this location. In 1977, the tower was sold to an investment firm and renamed 888 7th Avenue. The property is currently used for corporate offices and is not associated with Random House in any way.
+=========
+The football manager who recruited David Beckham managed Manchester United during what timeframe?
+Expected Answer: from 1986 to 2013
+According to the given text, the football manager who recruited David Beckham managed Manchester United during the period from July 1998 to October 2003. This indicates that the recruitment took place during that time frame.
+=========
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?
+Expected Answer: 9,984
+Brown State Fishing Lake has a population of around 1,765 inhabitants as per the last official census conducted in 2019. The exact figure may vary based on the latest available data.
+=========
+The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?
+Expected Answer: the North Atlantic Conference
+The Vermont Catamounts men's soccer team currently competes in the NCAA Division I Mountain West Conference (MWC), which is a conference that previously existed from 1988 to 1996 under the name of the Western Conference (WEST) of the NCAA.
+=========
+Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?
+Expected Answer: yes
+No, Giuseppe Verdi and Ambroise Thomas are not the same as they are both French composers who have produced opera music over different eras and periods. They are distinctly different composers with different musical styles and focus areas.
+=========
+Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?
+Expected Answer: 1969 until 1974
+Roger O. Egebrg was an Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during 1973-1977.
+=========
+Which writer was from England, Henry Roth or Robert Erskine Childers?
+Expected Answer: Robert Erskine Childers

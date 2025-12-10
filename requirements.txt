@@ -1,3 +1,5 @@
 numpy
 datasets
 ollama
+torch
+transformers
