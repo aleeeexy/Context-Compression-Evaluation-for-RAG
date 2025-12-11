@@ -1,6 +1,9 @@
 from .document import Document
 
 class DocumentParser:
+    """
+    A parser for documents that converts raw text into Document objects.
+    """
 
     def __init__(self):
         self.documents = []

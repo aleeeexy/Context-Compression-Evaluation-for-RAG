@@ -19,18 +19,51 @@ class TfIdfEmbeddingModel(EmbeddingModel):
         self.fitted = False # whether fit() is called
     
     def _tokenize(self, text: str) -> list[str]:
+        """
+        Simple whitespace and punctuation tokenizer.
+        
+        Args:
+            text (str): The input text to tokenize.
+
+        Returns:
+            list[str]: A list of tokens.    
+        """
         return re.findall(r"\b\w+\b", text.lower())
 
     def _bigram_tokenize(self, text: str) -> list[str]:
+        """
+        Generate bigrams from the input text.
+
+        Args:
+            text (str): The input text.
+
+        Returns:
+            list[str]: A list of bigram tokens.
+        """
         tokens = self._tokenize(text)
         return [f"{tokens[i]} {tokens[i+1]}" for i in range(len(tokens) - 1)]
 
     def _trigram_tokenize(self, text: str) -> list[str]:
+        """
+        Generate trigrams from the input text.
+
+        Args:
+            text (str): The input text.
+            
+        Returns:
+            list[str]: A list of trigram tokens.
+        """
         tokens = self._tokenize(text)
         return [f"{tokens[i]} {tokens[i+1]} {tokens[i+2]}"
                 for i in range(len(tokens) - 2)]
 
     def add_document(self, text: str):
+        """
+        Add a document to the corpus for fitting.
+
+        Args:
+            text (str): The document text to add.
+        """
         self.documents.append(text)
 
     def fit(self):
@@ -81,7 +114,7 @@ class TfIdfEmbeddingModel(EmbeddingModel):
 
         total = sum(counter.values())
 
-        # calculate tf (each token's frequency in the )
+        # calculate tf (each token's frequency in the document)
         tf = {t: c / total for t, c in counter.items()}
 
         vec = np.zeros(len(self.vocab), dtype=float)

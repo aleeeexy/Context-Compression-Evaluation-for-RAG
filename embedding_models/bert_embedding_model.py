@@ -15,7 +15,14 @@ LR = 1e-4
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class BertEmbeddingModel:
+    """BERT-based embedding model for generating document embeddings."""
     def __init__(self, model_name: str):
+        """
+        Initialize the BERT embedding model.
+
+        Args:
+            model_name (str): The name of the pre-trained BERT model.
+        """
         self.model_name = model_name
         self.tokenizer = BertTokenizerFast.from_pretrained(model_name, model_max_length=MAX_LEN)
         self.model = BertForMaskedLM.from_pretrained(model_name)
@@ -23,7 +30,15 @@ class BertEmbeddingModel:
         self.model.eval()
 
     def embed(self, document: Document) -> np.ndarray:
-        """Generate BERT embedding for the given document."""
+        """
+        Generate BERT embedding for the given document.
+        
+        Args:
+            document (Document): The input document to be embedded.
+
+        Returns:
+            np.ndarray: The BERT embedding vector for the document.
+        """
         inputs = self.tokenizer(document.text, return_tensors="pt", truncation=True, max_length=MAX_LEN).to(DEVICE)
 
         with torch.no_grad():
@@ -59,16 +74,38 @@ if __name__ == "__main__":
     tokenizer = BertTokenizerFast.from_pretrained("my_tokenizer", model_max_length=MAX_LEN)
 
     class BERTDataset(Dataset):
+        """Custom Dataset for BERT Masked Language Modeling."""
         def __init__(self, file_path, tokenizer, max_length):
+            """
+            Initialize the dataset.
+
+            Args:
+                file_path (str): Path to the text corpus.
+                tokenizer (): The BERT tokenizer.
+                max_length (int): Maximum sequence length.
+            """
             self.tokenizer = tokenizer
             self.max_length = max_length
             with open(file_path, "r", encoding="utf-8") as f:
                 self.lines = [line.strip() for line in f if line.strip()]
 
-        def __len__(self):
+        def __len__(self) -> int:
+            """
+            Return the number of lines in the dataset.
+
+            Returns:
+                int: Number of lines.
+            """
             return len(self.lines)
 
-        def __getitem__(self, idx):
+        def __getitem__(self, idx) -> dict:
+            """
+            Retrieve a single data point for the given index.
+            Args:
+                idx (int): Index of the data point.
+            Returns:
+                dict: A dictionary containing input_ids, attention_mask, and labels.
+            """
             text = self.lines[idx]
             
             encoding = self.tokenizer(
