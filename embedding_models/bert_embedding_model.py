@@ -23,6 +23,7 @@ class BertEmbeddingModel:
         self.model.eval()
 
     def embed(self, document: Document) -> np.ndarray:
+        """Generate BERT embedding for the given document."""
         inputs = self.tokenizer(document.text, return_tensors="pt", truncation=True, max_length=MAX_LEN).to(DEVICE)
 
         with torch.no_grad():
@@ -55,7 +56,6 @@ if __name__ == "__main__":
     )
     tokenizer.save_model("my_tokenizer")
 
-    # Reload as a Fast tokenizer for PyTorch compatibility
     tokenizer = BertTokenizerFast.from_pretrained("my_tokenizer", model_max_length=MAX_LEN)
 
     class BERTDataset(Dataset):
@@ -133,18 +133,14 @@ if __name__ == "__main__":
             attention_mask = batch["attention_mask"].to(DEVICE)
             labels = batch["labels"].to(DEVICE)
             
-            # Zero gradients
             optim.zero_grad()
             
-            # Forward pass (HuggingFace models calculate loss automatically if labels are provided)
             outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
             
             loss = outputs.loss
             
-            # Backward pass
             loss.backward()
             
-            # Optimization step
             optim.step()
             
             total_loss += loss.item()
@@ -162,7 +158,6 @@ if __name__ == "__main__":
     inputs = tokenizer(test_text, return_tensors="pt").to(DEVICE)
 
     with torch.no_grad():
-        outputs = model.bert(**inputs) # accessing .bert to skip the generic head
+        outputs = model.bert(**inputs)
         
-        # Get the embedding of the [CLS] token (first token)
         cls_embedding = outputs.last_hidden_state[:, 0, :]

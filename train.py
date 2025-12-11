@@ -3,6 +3,8 @@
 # pass documents into embedding model
 # generate embeddings
 # run on ollama
+
+# train.py used for testing the tfidf
 from document_parser.document_parser import DocumentParser
 from document_parser.hotpotqa_loader import HotpotQALoader
 from embedding_models.tfidf_embedding_model import TfIdfEmbeddingModel

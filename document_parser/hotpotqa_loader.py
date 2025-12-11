@@ -40,7 +40,7 @@ class HotpotQALoader:
     
 
 loader = HotpotQALoader()
-# print(len(loader.dataset))
+print(len(loader.dataset))
 document_parser = loader.get_document_parser()
 documents = document_parser.get_documents()
 #for doc in documents[:2]:

@@ -5,8 +5,11 @@ from document_parser.document_parser import DocumentParser
 from embedding_models.tfidf_embedding_model import TfIdfEmbeddingModel
 from embedding_models.bert_embedding_model import BertEmbeddingModel
 import numpy as np
+import time
 
 def tfidf_rag():
+    """Run RAG using TF-IDF embeddings."""
+    
     loader = HotpotQALoader()
     print(loader.get_questions())
     document_parser = loader.get_document_parser()
@@ -47,8 +50,9 @@ def tfidf_rag():
         print(query_tiny_lamma(context, question))
 
 def bert_rag():
+    """Run RAG using BERT embeddings."""
+
     loader = HotpotQALoader()
-    print(loader.get_questions())
     document_parser = loader.get_document_parser()
     documents = document_parser.get_documents()
 
@@ -86,6 +90,8 @@ def bert_rag():
         print(query_tiny_lamma(context, question))
 
 def auto_rag_questions(qa_pairs: list[tuple[str, str]]):
+    """Automatically ask questions using RAG with TF-IDF embeddings."""
+
     loader = HotpotQALoader()
 
     document_parser = loader.get_document_parser()
@@ -104,7 +110,7 @@ def auto_rag_questions(qa_pairs: list[tuple[str, str]]):
 
     for question, answer in qa_pairs:
         question_vec = tfidf_embedding_model.embed(question)
-        k = 10
+        k = 5
         similarities = []
         for vec in document_vectors:
             sim = np.dot(question_vec, vec) / (np.linalg.norm(question_vec) * np.linalg.norm(vec))
@@ -118,6 +124,8 @@ def auto_rag_questions(qa_pairs: list[tuple[str, str]]):
         print("=========")
 
 def auto_ask_qeuestions_all_context(qa_pairs: list[tuple[str, str]]):
+    """Automatically ask questions using RAG with all context provided."""
+
     loader = HotpotQALoader()
 
     document_parser = loader.get_document_parser()
@@ -131,6 +139,8 @@ def auto_ask_qeuestions_all_context(qa_pairs: list[tuple[str, str]]):
         print("=========")
 
 def auto_ask_questions_no_rag(qa_pairs: list[tuple[str, str]]):
+    """Automatically ask questions without RAG."""
+
     for question, answer in qa_pairs:
         print(question)
         print("Expected Answer:", answer)
@@ -138,6 +148,8 @@ def auto_ask_questions_no_rag(qa_pairs: list[tuple[str, str]]):
         print("=========")
 
 def query_tiny_lamma(context, question):
+    """Query TinyLlama with provided context and question."""
+
     response = ollama.chat("tinyllama", messages=[
         {"role": "system", "content": "You are a helpful assistant tasked with"
         " answering questions as best you can. You are given context to help you "
@@ -149,6 +161,8 @@ def query_tiny_lamma(context, question):
     return response["message"]["content"]
 
 def query_tiny_lamma_no_context(question):
+    """Query TinyLlama without any context."""
+
     response = ollama.chat("tinyllama", messages=[
         {"role": "system", "content": "You are a helpful assistant tasked with"
         " answering questions as best you can. Do your best to answer the question based on your"
@@ -158,8 +172,12 @@ def query_tiny_lamma_no_context(question):
     return response["message"]["content"]
 
 if __name__ == "__main__":
-    
-    loader = HotpotQALoader()
-    qas = loader.get_questions_answers(100)
+    # loader = HotpotQALoader()
+    # print(len(loader.dataset))
+    # qas = loader.get_questions_answers(10)
     # auto_rag_questions(qas)
-    auto_ask_qeuestions_all_context(qas)
+    # start = time.time()
+    # auto_rag_questions(qas)
+    # end = time.time()
+    # print("All context time taken:", end - start)
+    tfidf_rag()

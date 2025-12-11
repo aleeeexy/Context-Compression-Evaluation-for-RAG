@@ -1,8 +1,10 @@
 class Document:
     def __init__(self, document_text: str):
+        """Initialize a Document with the given text."""
         self.text = document_text
 
     def get_text(self) -> str:
+        """Retrieve the text content of the document."""
         return self.text
 
     # def word_frequency(self) -> dict[str, int]:
